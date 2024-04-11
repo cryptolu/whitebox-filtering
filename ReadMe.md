@@ -1,13 +1,17 @@
 White-box filtering attacks breaking SEL masking
 ================================================
 
-This repository contains implementations and logs for the paper 
+This repository contains implementations and logs for the CHES 2024 paper 
 
-> **White-box filtering attacks breaking SEL masking: from exponential to polynomial time**.
+> **White-box filtering attacks breaking SEL masking: from exponential to polynomial time**
+
+by Alex Charlès and Aleksei Udovenko.
+
+This work was supported by the Luxembourg National Research Fund's (FNR) and the German Research Foundation's (DFG) joint project APLICA (C19/IS/13641232).
 
 ##### Requirements
 
-Scripts require [SageMath](https://www.sagemath.org) of version at least 10.0, together with `wboxkit`, `tqdm` and `binteger` installed (based on [CHES 2022 WBC Tutorial](https://github.com/hellman/ches2022wbc)). Some scripts can be run with `pypy3` which is much faster (requires `wboxkit` installed as well).
+Scripts require [SageMath](https://www.sagemath.org) of version at least 10.0, together with `wboxkit`, `tqdm` and `binteger` installed (based on [CHES 2022 WBC / wboxkit tutorial](https://github.com/hellman/wboxkit)). Some scripts can be run with `pypy3` which is much faster (requires `wboxkit` installed as well).
 
 
 Preparation of traces and Redundant node removal (RNR) 
