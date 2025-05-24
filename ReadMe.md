@@ -1,7 +1,7 @@
 White-box filtering attacks breaking SEL masking
 ================================================
 
-This repository contains implementations and logs for the CHES 2024 paper ([10.46586/tches.v2024.i3.1-24](https://doi.org/10.46586/tches.v2024.i3.1-24))
+This repository contains implementations and logs for the CHES 2024 paper ([10.46586/tches.v2024.i3.1-24](https://doi.org/10.46586/tches.v2024.i3.1-24), [slides](slides.pptx))
 
 > **White-box filtering attacks breaking SEL masking: from exponential to polynomial time**
 
