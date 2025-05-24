@@ -1,13 +1,28 @@
 White-box filtering attacks breaking SEL masking
 ================================================
 
-This repository contains implementations and logs for the CHES 2024 paper 
+This repository contains implementations and logs for the CHES 2024 paper ([10.46586/tches.v2024.i3.1-24](https://doi.org/10.46586/tches.v2024.i3.1-24))
 
 > **White-box filtering attacks breaking SEL masking: from exponential to polynomial time**
 
 by Alex Charlès and Aleksei Udovenko.
 
 This work was supported by the Luxembourg National Research Fund's (FNR) and the German Research Foundation's (DFG) joint project APLICA (C19/IS/13641232).
+
+```tex
+@article{TCHES:ChaUdo24,
+  author = "Alex Charl{\`e}s and
+            Aleksei Udovenko",
+  title = "White-box filtering attacks breaking {SEL} masking: from exponential to polynomial time",
+  pages = "1--24",
+  volume = 2024,
+  publisher = "Ruhr-Universit{\"a}t Bochum",
+  year = 2024,
+  journal = "{IACR} Transactions on Cryptographic Hardware and Embedded Systems",
+  number = 3,
+  doi = "10.46586/tches.v2024.i3.1-24",
+}
+```
 
 ##### Requirements
 
