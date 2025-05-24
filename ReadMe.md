@@ -9,7 +9,7 @@ by Alex Charlès and Aleksei Udovenko.
 
 This work was supported by the Luxembourg National Research Fund's (FNR) and the German Research Foundation's (DFG) joint project APLICA (C19/IS/13641232).
 
-```tex
+```
 @article{TCHES:ChaUdo24,
   author = "Alex Charl{\`e}s and
             Aleksei Udovenko",
